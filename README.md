@@ -1,0 +1,2 @@
+# springboot_cardgame
+devcontainer上でspringbootとtypescriptを使ってwebsocketで通信するオンラインカードゲームを作りたい。
